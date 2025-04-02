@@ -1,1 +1,44 @@
+/* Color Theme Swatches in Hex
+.Fundo { color: #9BA7BF; }
+.Fonte { color: #23260F; }
+.Destaque { color: #F2EFDF; }
+/*
 
+html {
+  background: #9BA7BF;
+  color: #23260F;
+  font-size: 16px;
+  font-family: roboto, arial, sans-serif; 
+}
+
+p {
+  text-ident: 1em;
+}
+
+h1, h2, h3 {
+  text-align: center;
+}
+
+h1 {
+  font-size: 1.8rem;
+}
+
+h2 {
+  font-size: 1.4rem;
+}
+
+h3 {
+  font-size: 1.2rem;
+}
+
+.summary {
+  text-align: right;
+}
+
+.main p {
+  line-height: 1.5;
+}
+
+abbr {
+  font-variant: small-caps;
+}
